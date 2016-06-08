@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:52.052993
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:48
 #+TITLE: 不空羂索神呪心經
 #+PROPERTY: CBETA_ID T20n1094
 #+PROPERTY: ID KR6j0302
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1094
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0302_T_000-0402b>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0302_T_001-0402b> ¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1094[Nos.1093,1095,1099,¶
-cf.No.1092(Fasc.1)]¶
-
- 不空羂索神呪心經¶
+No. 1094 [Nos. 1093, 1095, 1099,¶
+ cf. No. 1092(Fasc. 1)]¶
+不空羂索神呪心經¶
 ¶
 唐三藏法師玄奘奉　詔譯¶
 
@@ -268,7 +267,7 @@ cf.No.1092(Fasc.1)]¶
 切病苦。普能安慰一切有情。¶
 
 闇頡利怛賴路迦毘闍耶唵暮伽播奢　頡利¶
-達耶　唵鉢剌底喝多¶
+達耶　唵鉢刺底喝多¶
 
 罨沛莎訶　納幕阿幕伽耶莎訶　納莫阿¶
 氏多耶莎訶　納莫阿鉢羅底多耶莎訶¶
@@ -376,11 +375,7 @@ cf.No.1092(Fasc.1)]¶
 歡喜信受奉行。¶
 不空羂索神呪心經¶
 
-不空罥索神咒心經後序
-:PROPERTIES:
-:head: 不空羂索神呪心經後序
-:END:
-¶
+* 不空羂索神呪心經後序¶
 
 神呪心經者。斯蓋三際種智之格言。十地證¶
 真之極趣也。裂四魔之便罟。折六師之邪¶
