@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:52.052993
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:48
 #+TITLE: 不空羂索神呪心經
 #+PROPERTY: CBETA_ID T20n1094
 #+PROPERTY: ID KR6j0302
@@ -376,7 +376,7 @@ cf.No.1092(Fasc.1)]¶
 歡喜信受奉行。¶
 不空羂索神呪心經¶
 
-不空罥索神咒心經後序
+* 不空罥索神咒心經後序
 :PROPERTIES:
 :head: 不空羂索神呪心經後序
 :END:
